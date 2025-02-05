@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "@playwright/test": "npm:@playwright/test@^1.50.0"
+  },
+  "nodeModulesDir": "auto",
+  "compilerOptions": {
+    "lib": ["dom"]
+  }
+}
